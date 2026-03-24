@@ -1,0 +1,23 @@
+.claude
+data/
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.next/
+.vercel/
+.agents/
+
+# Terraform
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.backup
+infra/.terraform.lock.hcl
+infra/terraform.tfvars
+
+# BAML generated
+scripts/baml_client/
+
+# Playwright MCP
+.playwright-mcp/

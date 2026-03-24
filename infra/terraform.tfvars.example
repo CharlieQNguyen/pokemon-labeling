@@ -1,0 +1,8 @@
+# Copy to terraform.tfvars and fill in values
+# NEVER commit terraform.tfvars to git
+
+turso_api_token = ""       # From: turso auth token
+turso_org       = ""       # From: turso org list
+turso_db_token  = ""       # From: turso db tokens create pokemon-labeling
+github_repo     = "CharlieQNguyen/pokemon-labeling"
+project_name    = "pokemon-labeling"

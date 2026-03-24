@@ -1,0 +1,4 @@
+httpx==0.27.0
+tqdm==4.66.4
+baml-py==0.220.0
+python-dotenv==1.0.1
